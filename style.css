@@ -1,35 +1,42 @@
-*{
+* {
     margin: 5px;
     padding: 1.5px;
 }
-h1{
-    font-family: 'Franklin Gothic Medium', 
-    'Arial Narrow', Arial, sans-serif;
+
+h1 {
+    font-family: 'Franklin Gothic Medium',
+        'Arial Narrow', Arial, sans-serif;
     color: aqua;
     font-size: 70px;
     margin-bottom: 20px;
 
 }
-body{
+
+body {
     background-color: rgb(36, 4, 4);
 
 }
-button{
-color: rgb(10, 12, 12);border-color: rgb(11, 71, 184);
-padding: 5px;
-border-radius: 30%;
+
+button {
+    color: rgb(10, 12, 12);
+    border-color: rgb(11, 71, 184);
+    padding: 5px;
+    border-radius: 30%;
 }
-input{
+
+input {
     color: rgb(21, 51, 51);
 }
 
-h2{
+h2 {
     color: aquamarine
 }
-input[type="text"]::placeholder{
+
+input[type="text"]::placeholder {
     color: rgb(12, 1, 3);
 }
-input[type="text"]{
+
+input[type="text"] {
     border: none;
     outline: none;
 }
